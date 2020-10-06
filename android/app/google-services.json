@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "412487726366",
+    "firebase_url": "https://propertylist-1534742510830.firebaseio.com",
+    "project_id": "propertylist-1534742510830",
+    "storage_bucket": "propertylist-1534742510830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412487726366:android:983d9fa2f2747a51",
+        "android_client_info": {
+          "package_name": "com.assurecore.propertylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412487726366-9u7fmeo1pkq6lktsbpn9i3tmgj25ii9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVRMiPy_Bqa6wbMAN1KPwWHLGzF4T5Lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412487726366:android:8960bcc10c26c987",
+        "android_client_info": {
+          "package_name": "com.propertylistit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412487726366-9u7fmeo1pkq6lktsbpn9i3tmgj25ii9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVRMiPy_Bqa6wbMAN1KPwWHLGzF4T5Lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
